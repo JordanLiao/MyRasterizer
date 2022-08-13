@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  Rasterizer.cpp
+D:\csHobby\MyRasterizer\Rasterizer.cpp(92,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  MyRasterizer.vcxproj -> D:\csHobby\MyRasterizer\x64\Debug\MyRasterizer.exe
